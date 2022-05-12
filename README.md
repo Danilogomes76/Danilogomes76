@@ -1,16 +1,13 @@
-### Hi there 👋
+Ola, me chamo Danilo Gomes. Programador front-end, em busca do meu primeiro estágio em programação.
 
-<!--
-**Danilogomes76/Danilogomes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------
+Meus conhecimentos atuais que estão em desenvolvimento costante são:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP
+--------------------
+Link do meu Linkedin: https://www.linkedin.com/in/danilo-gomes76/
+--------------------
+Espero que possamos nos conectar ^_^
