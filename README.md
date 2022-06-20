@@ -7,6 +7,8 @@ Meus conhecimentos atuais que estão em desenvolvimento costante são:
 - CSS
 - JAVASCRIPT
 - BOOTSTRAP
+- NODE.JS
+- MONGODB
 --------------------
 Link do meu Linkedin: https://www.linkedin.com/in/danilo-gomes76/
 --------------------
